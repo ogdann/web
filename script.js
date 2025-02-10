@@ -18,7 +18,7 @@ function createFallingImage(imageUrl) {
 
 setInterval(() => {
     for (let i = 0; i < 1; i++) {
-        createFallingImage('/img/no.gif'); // Change URL to desired image
+        createFallingImage('img/sticker.jpg'); // Change URL to desired image
     }
 }, 200);
 
