@@ -18,7 +18,7 @@ function createFallingImage(imageUrl) {
 
 setInterval(() => {
     for (let i = 0; i < 1; i++) {
-        createFallingImage('/img/sticker.webp'); // Change URL to desired image
+        createFallingImage('/img/sticker.png'); // Change URL to desired image
     }
 }, 200);
 
